@@ -1,6 +1,7 @@
 fastapi~=0.115.6
+uvicorn
 nltk~=3.9.1
-spacy~=3.8.2
+spacy
 scikit-learn~=1.5.2
 anyio~=4.6.2.post1
 SQLAlchemy~=2.0.36
